@@ -4,8 +4,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![OMDB API](https://img.shields.io/badge/OMDb_API-black?style=for-the-badge&logo=api&logoColor=white)
 
-Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **Android Studio** dan bahasa pemrograman **Kotlin**.  
-Aplikasi ini memiliki fitur lengkap mulai dari splash screen, login, pencarian film/TV show, hingga menyimpan film favorit.
+Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **Android Studio** dan bahasa pemrograman **Kotlin**. Aplikasi ini memiliki fitur lengkap mulai dari splash screen, login, pencarian film/TV show, hingga menyimpan film favorit.
 
 ---
 
