@@ -55,7 +55,7 @@ Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **
 ## 🚀 Instalasi
 1. Clone repositori:
    ```bash
-   git clone https://github.com/reykamr/bangrey-movies-trailer.git
+   https://github.com/ReykaMR/Bangrey-Movies-Trailer.git
 2. Buka di Android Studio
 3. Jalankan aplikasi di emulator atau perangkat Android.
 
