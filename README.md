@@ -42,13 +42,13 @@ Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **
 ---
 
 ## 🛠 Teknologi yang Digunakan
-- **Kotlin** (Bahasa Pemrograman)
-- **Android Studio** (IDE)
-- **OMDb API** (Sumber Data Film & TV Show)
-- **MVVM Architecture** (opsional, jika dipakai)
-- **Room Database** (untuk menyimpan data favorit secara lokal)
-- **Retrofit** (untuk konsumsi API)
-- **Glide/Picasso** (untuk load gambar poster film)
+- **Kotlin**
+- **Android Studio**
+- **OMDb API**
+- **MVVM Architecture**
+- **Room Database**
+- **Retrofit**
+- **Glide/Picasso**
 
 ---
 
@@ -57,10 +57,7 @@ Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **
    ```bash
    git clone https://github.com/reykamr/bangrey-movies-trailer.git
 2. Buka di Android Studio
-3. Pastikan sudah memiliki API Key dari OMDb API.
-4. Masukkan API Key ke dalam file gradle.properties atau langsung di Retrofit config:
-   const val API_KEY = "YOUR_API_KEY"
-5. Jalankan aplikasi di emulator atau perangkat Android.
+3. Jalankan aplikasi di emulator atau perangkat Android.
 
 ---
 
