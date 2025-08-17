@@ -1,6 +1,6 @@
 # 🎬 Aplikasi Android Pencarian Film
 
-![OMDB API](https://img.shields.io/badge/OMDb_API-black?style=for-the-badge&logo=api&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![OMDB API](https://img.shields.io/badge/OMDb_API-black?style=for-the-badge&logo=api&logoColor=white)
 
@@ -12,15 +12,15 @@ Aplikasi ini memiliki fitur lengkap mulai dari splash screen, login, pencarian f
 ## 📸 Tampilan Aplikasi
 <table>
   <tr>
-    <td><img src="screenshoot-aplikasi/foto1.png" alt="Screenshot 1" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto2.png" alt="Screenshot 2" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto3.png" alt="Screenshot 3" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto4.png" alt="Screenshot 4" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto5.png" alt="Screenshot 5" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto6.png" alt="Screenshot 6" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto7.png" alt="Screenshot 7" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto8.png" alt="Screenshot 8" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto9.png" alt="Screenshot 9" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto1.png" alt="Screenshot 1" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto2.png" alt="Screenshot 2" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto3.png" alt="Screenshot 3" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto4.png" alt="Screenshot 4" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto5.png" alt="Screenshot 5" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto6.png" alt="Screenshot 6" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto7.png" alt="Screenshot 7" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto8.png" alt="Screenshot 8" width="100%" height="250"></td>
+    <td><img src="screenshot-aplikasi/foto9.png" alt="Screenshot 9" width="100%" height="250"></td>
   </tr>
 </table>
 
