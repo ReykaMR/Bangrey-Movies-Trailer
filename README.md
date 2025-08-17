@@ -14,9 +14,13 @@ Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **
     <td><img src="screenshot-aplikasi/foto1.jpg" alt="Screenshot 1" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto2.jpg" alt="Screenshot 2" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto3.jpg" alt="Screenshot 3" width="100%" height="250"></td>
+  </tr>
+  <tr>
     <td><img src="screenshot-aplikasi/foto4.jpg" alt="Screenshot 4" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto5.jpg" alt="Screenshot 5" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto6.jpg" alt="Screenshot 6" width="100%" height="250"></td>
+  </tr>
+  <tr>
     <td><img src="screenshot-aplikasi/foto7.jpg" alt="Screenshot 7" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto8.jpg" alt="Screenshot 8" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto9.jpg" alt="Screenshot 9" width="100%" height="250"></td>
