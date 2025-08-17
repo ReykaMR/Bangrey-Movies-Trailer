@@ -48,7 +48,6 @@ Aplikasi Android untuk pencarian film menggunakan **API OMDb**, dibuat dengan **
 - **MVVM Architecture**
 - **Room Database**
 - **Retrofit**
-- **Glide/Picasso**
 
 ---
 
